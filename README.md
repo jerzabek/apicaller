@@ -3,4 +3,4 @@ This JavaFX application allows you to make a request to any given API with any a
 
 Further more you can also save the request's result in a text file through a convinient Save button.
 
-![A preview of the UI:](https://imgur.com/wQoECak)
+![A preview of the UI:](https://i.imgur.com/wQoECak.png)
